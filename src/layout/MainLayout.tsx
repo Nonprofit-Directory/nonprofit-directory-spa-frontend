@@ -3,9 +3,12 @@ import Navbar from "@/components/shared/Navbar"
 
 const MainLayout = () => {
   return (
-    <div className="w-screen h-screen bg-[var(--propel-clay-gray)] overflow-y-scroll relative">
+    <div className="flex flex-col h-screen">
       <Navbar />
-      <main className="p-6">
+      <main 
+       id="scroll-container"
+       className="flex-1 overflow-y-auto bg-[var(--propel-clay-gray)] p-6"
+       >
         <Outlet />
       </main>
     </div>

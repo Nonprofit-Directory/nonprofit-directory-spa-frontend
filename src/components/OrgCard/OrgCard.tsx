@@ -23,7 +23,7 @@ function OrgCard({ org }: { org: IOrgCard }) {
       <CardHeader>
         <div className="icon-btn flex justify-between items-center">
           {org.image ? (
-            <div className="w-20 h-20 border-2 border-[var(--propel-ignite-orange)] rounded-full overflow-hidden flex justify-center items-center">
+            <div className="w-30 h-20 rounded-xl overflow-hidden flex justify-center items-center">
                 <img
                   className="w-full h-full object-cover object-center"
                   src={org.image}

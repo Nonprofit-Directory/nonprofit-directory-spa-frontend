@@ -8,16 +8,16 @@ function DropdownUserNav({handleLogout, navigate}:{
 }) {
   return (
     <DropdownMenu>
-          <DropdownMenuTrigger asChild>
+          <DropdownMenuTrigger className="cursor-pointer">
             <button className="focus:outline-none cursor-pointer">
               <FaCircleUser className="text-orange-500 text-2xl bg-white rounded-full p-0.5" />
             </button>
           </DropdownMenuTrigger>
-          <DropdownMenuContent align="end" className="w-48 bg-white border-2 border-orange-500">
-            <DropdownMenuItem onClick={() => navigate("/account")}>
+          <DropdownMenuContent align="end" className="w-48 bg-white mt-2 cursor-pointer">
+            <DropdownMenuItem onClick={() => navigate("/account")} className="cursor-pointer">
               Mi cuenta
             </DropdownMenuItem>
-            <DropdownMenuItem onClick={handleLogout} className="flex items-center gap-2">
+            <DropdownMenuItem onClick={handleLogout} className="flex items-center gap-2 cursor-pointer">
               Cerrar sesión
               <FaCircleUser className="text-2xl"/>
             </DropdownMenuItem>

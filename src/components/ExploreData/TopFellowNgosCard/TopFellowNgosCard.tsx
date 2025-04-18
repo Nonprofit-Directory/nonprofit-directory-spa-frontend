@@ -8,7 +8,7 @@ export function TopFellowNgosCard({ ngo }: { ngo: FellowNgo }) {
         <img
           src={ngo.logo}
           alt={ngo.name}
-          className="w-[130px] h-[130px] object-cover rounded-4xl"
+          className="w-[130px] h-[130px] object-cover rounded-lg"
         />
         <div className="tfnc-body-container-card w-full">
           <div className="card-header pb-2 flex justify-between items-center w-full">
