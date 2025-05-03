@@ -1,0 +1,3562 @@
+
+
+
+
+{
+    "totalSize": 96,
+    "done": true,
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002f1ixWAAQ"
+            },
+            "Id": "0018c00002f1ixWAAQ",
+            "Name": "Ada ITW",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000LuLMQYA3"
+                },
+                "Id": "003PM00000LuLMQYA3",
+                "FirstName": "Javier",
+                "LastName": "de la Calle"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "javier@adaitw.com.ar",
+            "One_liner__c": "Empoderamos mujeres en el sector IT",
+            "Year_of_foundation__c": 2017.0,
+            "Website": "https://adaitw.org",
+            "Country__c": "Colombia",
+            "Country_Presence__c": "Argentina;Chile;Colombia;El Salvador;Guatemala;Honduras;Mexico;Peru;Uruguay",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education;SDG 5: Gender Equality;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": "https://www.linkedin.com/company/ada-itw/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002f1ixfAAA"
+            },
+            "Id": "0018c00002f1ixfAAA",
+            "Name": "Amantaní Ccorca",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000cidecYAA"
+                },
+                "Id": "003PM00000cidecYAA",
+                "FirstName": "Jennifer",
+                "LastName": "Byrne"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "jennifer@amantani.org.pe",
+            "One_liner__c": "Promovemos la inclusión y la igualdad de jóvenes rurales peruanos/as a través de oportunidades en educación, empleo y comercio justo.",
+            "Year_of_foundation__c": 2008.0,
+            "Website": "https://www.amantani.org/",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education;SDG 5: Gender Equality",
+            "LinkedIn__c": "https://www.linkedin.com/company/amantani-ngo/?originalSubdomain=uk"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002f1iy9AAA"
+            },
+            "Id": "0018c00002f1iy9AAA",
+            "Name": "Kantaya",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c000039l7RxAAI"
+                },
+                "Id": "0038c000039l7RxAAI",
+                "FirstName": "Yessica",
+                "LastName": "Flores Camborda"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "yeflores@kantayaperu.com",
+            "One_liner__c": "Kantaya promueve la educación de calidad y el desarrollo integral en niños en zonas vulnerables a través de sus dos programas: After School y Podera",
+            "Year_of_foundation__c": 2004.0,
+            "Website": "https://kantayaperu.com",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": "https://www.linkedin.com/company/kantayaperu/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002f1j3EAAQ"
+            },
+            "Id": "0018c00002f1j3EAAQ",
+            "Name": "Latin American Leadership Academy - LALA",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c000039l7RyAAI"
+                },
+                "Id": "0038c000039l7RyAAI",
+                "FirstName": "Diego",
+                "LastName": "Ontaneda"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "diego.ontaneda@somoslala.org",
+            "One_liner__c": "Desarrollar una nueva generación de líderes para transformar Latinoamérica.",
+            "Year_of_foundation__c": 2017.0,
+            "Website": "https://www.latinamericanleadershipacademy.org/",
+            "Country__c": "Colombia",
+            "Country_Presence__c": "Colombia",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": "https://www.linkedin.com/school/somos-lala/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002f1j3LAAQ"
+            },
+            "Id": "0018c00002f1j3LAAQ",
+            "Name": "Educate2Envision",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c000039l7S5AAI"
+                },
+                "Id": "0038c000039l7S5AAI",
+                "FirstName": "Katia",
+                "LastName": "Gómez"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "katia@educate2envision.org",
+            "One_liner__c": "Educate2Envision empodera a jóvenes rurales en Honduras mediante educación innovadora, desarrollo de liderazgo y emprendimiento para transformar sus comunidades y mejorar su calidad de vida.",
+            "Year_of_foundation__c": 2010.0,
+            "Website": "https://www.educate2envision.org/",
+            "Country__c": "Honduras",
+            "Country_Presence__c": "Honduras",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": "https://www.linkedin.com/company/educate2envision-international/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002f1j3NAAQ"
+            },
+            "Id": "0018c00002f1j3NAAQ",
+            "Name": "TurismoCuida",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000LuLPGYA3"
+                },
+                "Id": "003PM00000LuLPGYA3",
+                "FirstName": "María del Carmen",
+                "LastName": "de Reparaz"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "presidencia@turismocuida.org",
+            "One_liner__c": "Impulsamos un turismo sostenible, responsable e inclusivo, desarrollando y preservando nuestro patrimonio  para generaciones futuras.",
+            "Year_of_foundation__c": 2012.0,
+            "Website": "https://turismocuida.org",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 13: Climate Action;SDG 15: Life on Land",
+            "LinkedIn__c": "https://www.linkedin.com/company/turismo-cuida/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002f1j3OAAQ"
+            },
+            "Id": "0018c00002f1j3OAAQ",
+            "Name": "Viva Vive Valores",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000LuLMsYAN"
+                },
+                "Id": "003PM00000LuLMsYAN",
+                "FirstName": "Maria Jossé",
+                "LastName": "Delgado"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "mdelgado@viva.org.pe",
+            "One_liner__c": "Buscamos formar a una nueva generación de peruanos",
+            "Year_of_foundation__c": 2001.0,
+            "Website": "https://viva.org.pe/",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": "https://www.linkedin.com/company/vivavivevalores/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002f1j3PAAQ"
+            },
+            "Id": "0018c00002f1j3PAAQ",
+            "Name": "Fundación Espacio Creativo",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000Kf5l2YAB"
+                },
+                "Id": "003PM00000Kf5l2YAB",
+                "FirstName": "Angela",
+                "LastName": "Florez"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "direccion@fec.org.pa",
+            "One_liner__c": "Fundación Espacio Creativo busca abrir oportunidades a través de la danza, la cultura y la educación para niños, niñas, adolescentes y jovenes en Panamá",
+            "Year_of_foundation__c": 2013.0,
+            "Website": "https://www.fec.org.pa",
+            "Country__c": "Panama",
+            "Country_Presence__c": "Panama",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education;SDG 11: Sustainable Cities and Communities;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": "https://www.linkedin.com/company/fecpanama/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002f1j3WAAQ"
+            },
+            "Id": "0018c00002f1j3WAAQ",
+            "Name": "Fundación Santa Isabel",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c000039l7SGAAY"
+                },
+                "Id": "0038c000039l7SGAAY",
+                "FirstName": "María Claudia",
+                "LastName": "Sarta"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "maria.sarta@fundacionsantaisabel.org",
+            "One_liner__c": "La Fundación Santa Isabel transforma la educación pública de Cundinamarca con innovación, sostenibilidad y herramientas que permiten a niñas, niños y jóvenes diseñar un futuro lleno de oportunidades.",
+            "Year_of_foundation__c": 1964.0,
+            "Website": "www.fundacionsantaisabel.org",
+            "Country__c": "Colombia",
+            "Country_Presence__c": "Colombia",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": "https://www.linkedin.com/company/fundaci%C3%B3n-santa-isabel/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002f1j3aAAA"
+            },
+            "Id": "0018c00002f1j3aAAA",
+            "Name": "Más por TIC",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c000039l7SKAAY"
+                },
+                "Id": "0038c000039l7SKAAY",
+                "FirstName": "Eliana",
+                "LastName": "Camargo Niño"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "eliana@masportic.org",
+            "One_liner__c": "En Más por TIC somos una empresa social (figura jurídica: fundación) con 10 años de experiencia, dedicada a empoderar jóvenes rurales, asociaciones agropecuarias y empresas en la adopción de tecnología e innovación. Lo hacemos a través de programas formativos, metodologías de emprendimiento, lean startup, alfabetización digital, experimentación, visibilidad digital y servicios de acompañamiento en la transformación del campo colombiano. Nuestra misión es cerrar la brecha entre el campo y la ciudad, promoviendo el ecosistema Agtech y generando oportunidades para que las comunidades rurales lideren el cambio en sus territorios, impulsando emprendimientos rurales sostenibles y mejorando la calidad de vida a través de la tecnología y la innovación.",
+            "Year_of_foundation__c": 2015.0,
+            "Website": "https://masportic.org/",
+            "Country__c": "Colombia",
+            "Country_Presence__c": "Colombia",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": "https://www.linkedin.com/company/masportic/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002f1j3bAAA"
+            },
+            "Id": "0018c00002f1j3bAAA",
+            "Name": "Fundación Óyeme",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c000039l7TxAAI"
+                },
+                "Id": "0038c000039l7TxAAI",
+                "FirstName": "Beatriz",
+                "LastName": "Londoño"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "direccionfundacion@oyeme.org",
+            "One_liner__c": "Transformamos vidas por medio de la inclusión",
+            "Year_of_foundation__c": 1966.0,
+            "Website": "oyeme.org",
+            "Country__c": "Colombia",
+            "Country_Presence__c": "Colombia",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": "https://www.linkedin.com/in/fundaci%C3%B3n-%C3%B3yeme-con-todo-sentido-7a9372220/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002f1j3cAAA"
+            },
+            "Id": "0018c00002f1j3cAAA",
+            "Name": "TeenSmart International",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000cideWYAQ"
+                },
+                "Id": "003PM00000cideWYAQ",
+                "FirstName": "Joice",
+                "LastName": "Corrales"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "jcorrales@teensmart.net",
+            "One_liner__c": "Promoción de la salud integral para personas adolescentes y jóvenes a través de la plataforma en línea jovensalud.net",
+            "Year_of_foundation__c": 2004.0,
+            "Website": "https://teensmart.org/",
+            "Country__c": "Latin America",
+            "Country_Presence__c": "Colombia;Costa Rica;El Salvador;Guatemala;Honduras;Mexico;Nicaragua;Peru;Venezuela",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 3: Good Health and Well-being;SDG 4: Quality Education;SDG 5: Gender Equality",
+            "LinkedIn__c": "https://www.linkedin.com/company/teensmart-internacional/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002f1j3dAAA"
+            },
+            "Id": "0018c00002f1j3dAAA",
+            "Name": "Glasswing International",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c000039l7UZAAY"
+                },
+                "Id": "0038c000039l7UZAAY",
+                "FirstName": "Paloma",
+                "LastName": "González"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "pgonzalez@glasswing.org",
+            "One_liner__c": "En Glasswing creemos que cada persona tiene tanto el potencial como el derecho de prosperar, sin importar la adversidad que enfrente. Involucramos a miles de personas voluntarias para garantizar un cambio sostenible, mientras fomentamos la esperanza y el orgullo de la comunidad.",
+            "Year_of_foundation__c": 2009.0,
+            "Website": "https://glasswing.org/",
+            "Country__c": "El Salvador",
+            "Country_Presence__c": "Latin America",
+            "Organization_size__c": "501+ employees",
+            "Salesforce_organization_size__c": "Large",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": "https://www.linkedin.com/company/glasswinginternational/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002f1j3fAAA"
+            },
+            "Id": "0018c00002f1j3fAAA",
+            "Name": "Ni Uno Más",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000cideYYAQ"
+                },
+                "Id": "003PM00000cideYYAQ",
+                "FirstName": "Jonathan",
+                "LastName": "Btesh E."
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "jonathan@niunomas.org",
+            "One_liner__c": "Prevenimos e intervenimos el Acoso Escolar en Panamá mediante programas de salud mental.",
+            "Year_of_foundation__c": 2018.0,
+            "Website": "www.niunomas.org",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Mexico",
+            "Organization_size__c": "51 - 500 employees",
+            "Salesforce_organization_size__c": "Medium",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": "https://www.linkedin.com/company/ni-uno-m-s/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002f1j3iAAA"
+            },
+            "Id": "0018c00002f1j3iAAA",
+            "Name": "Seeds for Progress",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c000039l7U4AAI"
+                },
+                "Id": "0038c000039l7U4AAI",
+                "FirstName": "Melissa",
+                "LastName": "Arevalo"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "marevalo@seedsforprogress.org",
+            "One_liner__c": "Trabajamos en pro de la educación de calidad la prevención del trabajo infantil y la seguridad alimentaria en comunidades rurales de Guatemala.",
+            "Year_of_foundation__c": 2013.0,
+            "Website": "www.seedsforprogress.org",
+            "Country__c": "Nicaragua",
+            "Country_Presence__c": "Nicaragua",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": "https://www.linkedin.com/company/seedsforprogressfoundation/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002f4DdwAAE"
+            },
+            "Id": "0018c00002f4DdwAAE",
+            "Name": "Fundación Oli",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c00003Av3HZAAZ"
+                },
+                "Id": "0038c00003Av3HZAAZ",
+                "FirstName": "Diana",
+                "LastName": "Crousillat"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "diana@olifoundation.org",
+            "One_liner__c": "La Ong para las Ongs",
+            "Year_of_foundation__c": 2012.0,
+            "Website": "https://olifoundation.org/",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 1: No Poverty;SDG 2: Zero Hunger;SDG 3: Good Health and Well-being;SDG 4: Quality Education;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": "https://www.linkedin.com/company/fundaci%C3%B3n-oli/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002gl9G3AAI"
+            },
+            "Id": "0018c00002gl9G3AAI",
+            "Name": "Museo de Arte de Lima - MALI",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000QalcAYAR"
+                },
+                "Id": "003PM00000QalcAYAR",
+                "FirstName": "Gustavo",
+                "LastName": "Zapata"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "gzapata@mali.pe",
+            "One_liner__c": "Democratización del acceso al arte y la cultura.",
+            "Year_of_foundation__c": 1954.0,
+            "Website": "https://mali.pe",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Peru",
+            "Organization_size__c": "51 - 500 employees",
+            "Salesforce_organization_size__c": "Medium",
+            "Sustainable_Development_Goals_SDG__c": "SDG 11: Sustainable Cities and Communities",
+            "LinkedIn__c": "https://www.linkedin.com/company/museodeartedelima/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002gl9NfAAI"
+            },
+            "Id": "0018c00002gl9NfAAI",
+            "Name": "Proa",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c00003DAKmyAAH"
+                },
+                "Id": "0038c00003DAKmyAAH",
+                "FirstName": "Carolina",
+                "LastName": "Martinez"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "carolina@proa.pe",
+            "One_liner__c": "Expandir la solidaridad",
+            "Year_of_foundation__c": 2017.0,
+            "Website": "https://proa.pe",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": "https://www.linkedin.com/company/proape"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002iwSGNAA2"
+            },
+            "Id": "0018c00002iwSGNAA2",
+            "Name": "ConTextos",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000LuokQYAR"
+                },
+                "Id": "003PM00000LuokQYAR",
+                "FirstName": "Gabriela",
+                "LastName": "Vargas"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "gaby@contextos.org",
+            "One_liner__c": "Creemos en el poder transformador de las historias",
+            "Year_of_foundation__c": 2011.0,
+            "Website": "https://contextos.org/es/",
+            "Country__c": "El Salvador",
+            "Country_Presence__c": "El Salvador",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education;SDG 11: Sustainable Cities and Communities",
+            "LinkedIn__c": "https://www.linkedin.com/company/contextos/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002iwhp2AAA"
+            },
+            "Id": "0018c00002iwhp2AAA",
+            "Name": "Fundación Obsequio de Vida J. Thomas Ford",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000cideTYAQ"
+                },
+                "Id": "003PM00000cideTYAQ",
+                "FirstName": "Karla",
+                "LastName": "Garcia"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "fov@obsequiodevida.org",
+            "One_liner__c": "Salvamos vidas de niños con cardiopatías congénitas, brindando acceso a cirugías, tratamiento médico especializado y esperanza para sus familias.",
+            "Year_of_foundation__c": 1992.0,
+            "Website": "https://www.obsequiodevida.org/nosotros",
+            "Country__c": "Panama",
+            "Country_Presence__c": "Panama",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 3: Good Health and Well-being",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002ixCC3AAM"
+            },
+            "Id": "0018c00002ixCC3AAM",
+            "Name": "FUSAL",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c00003DCSGeAAP"
+                },
+                "Id": "0038c00003DCSGeAAP",
+                "FirstName": "Karla",
+                "LastName": "Segovia"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "karla.segovia@fusal.org",
+            "One_liner__c": "Nuestra misión es llevar bienestar y progreso social para las comunidades más vulnerables de El Salvador",
+            "Year_of_foundation__c": 1984.0,
+            "Website": "https://www.fusal.org/",
+            "Country__c": "El Salvador",
+            "Country_Presence__c": "El Salvador",
+            "Organization_size__c": "51 - 500 employees",
+            "Salesforce_organization_size__c": "Medium",
+            "Sustainable_Development_Goals_SDG__c": "SDG 2: Zero Hunger;SDG 12: Responsible Consumption and Production;SDG 13: Climate Action;SDG 15: Life on Land",
+            "LinkedIn__c": "https://www.linkedin.com/company/fusalorg/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002ixCCYAA2"
+            },
+            "Id": "0018c00002ixCCYAA2",
+            "Name": "Juguete Pendiente",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c00003DCSGuAAP"
+                },
+                "Id": "0038c00003DCSGuAAP",
+                "FirstName": "Vanessa",
+                "LastName": "Vasquez"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "vanessavasquez@juguetependiente.org",
+            "One_liner__c": "Transformamos vidas generando oportunidades y fortaleciendo comunidades a través de la sostenibilidad.",
+            "Year_of_foundation__c": 2013.0,
+            "Website": "https://juguetependiente.org/en/",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": "https://www.linkedin.com/company/juguete-pendiente/?originalSubdomain=pe"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002ixCCdAAM"
+            },
+            "Id": "0018c00002ixCCdAAM",
+            "Name": "Asociación de Voluntarias por los Niños con Cancer - MAGIA",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c00003DCSGyAAP"
+                },
+                "Id": "0038c00003DCSGyAAP",
+                "FirstName": "Christian",
+                "LastName": "Ames"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "christian.ames@lamagiacuraelcancer.com",
+            "One_liner__c": "Apoyar a niños con cáncer que no tienen recursos a superar la enfermedad",
+            "Year_of_foundation__c": 2010.0,
+            "Website": "https://lamagiacuraelcancer.com/ninos_cancer_peru_home",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 3: Good Health and Well-being",
+            "LinkedIn__c": "https://www.linkedin.com/in/christian-ames-344a2713/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002jovuAAAQ"
+            },
+            "Id": "0018c00002jovuAAAQ",
+            "Name": "Fundación Botánica y Zoológica de Barranquilla",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c00003EpippAAB"
+                },
+                "Id": "0038c00003EpippAAB",
+                "FirstName": "Alan",
+                "LastName": "Abello"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "a.abello@zoobaq.org",
+            "One_liner__c": "La Fundación Botánica y Zoológica de Barranquilla moviliza y construye ciudadanías ambientales, a través de la apropiación social del conocimiento, soluciones basadas en la naturaleza y experiencias e infraestructuras para la conservación, generando agencia sistémica para la conservación de la biodiversidad; es un aliado del gobierno que acompaña el desarrollo sostenible, creando articulación y fortalecimiento institucional, y conectándose con relatos globales alrededor de estas temáticas",
+            "Year_of_foundation__c": 1991.0,
+            "Website": "https://www.zoobaq.org/index.php",
+            "Country__c": "Colombia",
+            "Country_Presence__c": "Colombia",
+            "Organization_size__c": "51 - 500 employees",
+            "Salesforce_organization_size__c": "Medium",
+            "Sustainable_Development_Goals_SDG__c": "SDG 13: Climate Action;SDG 15: Life on Land",
+            "LinkedIn__c": "https://www.linkedin.com/company/zoobaq/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002jovuPAAQ"
+            },
+            "Id": "0018c00002jovuPAAQ",
+            "Name": "Trasciende PE",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c00003DCTnCAAX"
+                },
+                "Id": "0038c00003DCTnCAAX",
+                "FirstName": "Gaston Gerardo",
+                "LastName": "Madueño Paico"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "gmadueno97@gmail.com",
+            "One_liner__c": "Movimiento por el propósito",
+            "Year_of_foundation__c": 2021.0,
+            "Website": "https://trasciende.com.pe/",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": "https://www.linkedin.com/in/gastonmadueno/?originalSubdomain=pe"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002jovuYAAQ"
+            },
+            "Id": "0018c00002jovuYAAQ",
+            "Name": "Taller de los Niños - TANI",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000cideXYAQ"
+                },
+                "Id": "003PM00000cideXYAQ",
+                "FirstName": "Piero",
+                "LastName": "Contreras"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "tanialianzas@gmail.com",
+            "One_liner__c": "Implementamos acciones sostenibles que impactan en el desarrollo y bienestar de los niños y niñas del Perú",
+            "Year_of_foundation__c": 1977.0,
+            "Website": "https://tallerdelosninos.org.pe/es/home",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Peru",
+            "Organization_size__c": "51 - 500 employees",
+            "Salesforce_organization_size__c": "Medium",
+            "Sustainable_Development_Goals_SDG__c": "SDG 1: No Poverty;SDG 2: Zero Hunger;SDG 3: Good Health and Well-being;SDG 4: Quality Education;SDG 5: Gender Equality;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": "https://www.linkedin.com/company/tani-peru/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002jovuZAAQ"
+            },
+            "Id": "0018c00002jovuZAAQ",
+            "Name": "Kodea",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c00003Av3eLAAR"
+                },
+                "Id": "0038c00003Av3eLAAR",
+                "FirstName": "Gabriel",
+                "LastName": "Nesvara"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "gnesvara@kodea.org",
+            "One_liner__c": "EMPODERAMOS A LOS LATINOS PARA QUE PARTICIPEN ACTIVAMENTE DEL MUNDO DIGITAL.",
+            "Year_of_foundation__c": 2015.0,
+            "Website": "https://kodea.org/",
+            "Country__c": "Chile",
+            "Country_Presence__c": "Chile",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": "https://www.linkedin.com/company/kodea/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002l5y0YAAQ"
+            },
+            "Id": "0018c00002l5y0YAAQ",
+            "Name": "Evas y Adanes",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000Qalc9YAB"
+                },
+                "Id": "003PM00000Qalc9YAB",
+                "FirstName": "Fabrina",
+                "LastName": "Acosta"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "fabrina.acostac@gmail.com",
+            "One_liner__c": "Reivindicación de los derechos femeninos desde principios etnicos y culturales",
+            "Year_of_foundation__c": 2012.0,
+            "Website": "https://www.evasyadanes.com",
+            "Country__c": "Colombia",
+            "Country_Presence__c": "Colombia",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 5: Gender Equality",
+            "LinkedIn__c": "https://www.linkedin.com/company/evasyadanes/posts/?feedView=all"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002rTgjhAAC"
+            },
+            "Id": "0018c00002rTgjhAAC",
+            "Name": "Fundación Ixcanul",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c00003Kur3QAAR"
+                },
+                "Id": "0038c00003Kur3QAAR",
+                "FirstName": "Alba",
+                "LastName": "Carrasco"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "direccion@fundacionixcanul.org",
+            "One_liner__c": "Fundación Ixcanul trabaja para defender los derechos humanos y la justicia ambiental a través del cine y el fortalecimiento de la industria cinematográfica en Centroamérica",
+            "Year_of_foundation__c": 2018.0,
+            "Website": "https://www.fundacionixcanul.org",
+            "Country__c": "Guatemala",
+            "Country_Presence__c": "Guatemala",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 11: Sustainable Cities and Communities",
+            "LinkedIn__c": "https://www.linkedin.com/in/alba-carrasco/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002rTgjjAAC"
+            },
+            "Id": "0018c00002rTgjjAAC",
+            "Name": "Banco de Alimentos Mazatlán I.A.P",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000cidebYAA"
+                },
+                "Id": "003PM00000cidebYAA",
+                "FirstName": "Ana",
+                "LastName": "Aceves"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "contacto@bamazatlan.org.mx",
+            "One_liner__c": "Combatir la inseguridad alimentaria en el sur de Sinaloa (México), reduciendo la pérdida y desperdicio de alimentos y promoviendo el bienestar comunitario, con el apoyo de colaboradores y donantes comprometidos.",
+            "Year_of_foundation__c": 2003.0,
+            "Website": "https://bamazatlan.org.mx",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Mexico",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 2: Zero Hunger",
+            "LinkedIn__c": "https://www.linkedin.com/company/bancodealimentosmazatlan/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002rTgkAAAS"
+            },
+            "Id": "0018c00002rTgkAAAS",
+            "Name": "EsseEs",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000RZDyxYAH"
+                },
+                "Id": "003PM00000RZDyxYAH",
+                "FirstName": null,
+                "LastName": "Estefanía Sokoloff"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "esokoloffgc@gmail.com",
+            "One_liner__c": "Apoyo emocional y profesional a los pequeños emprendedores en Colombia",
+            "Year_of_foundation__c": 2020.0,
+            "Website": "https://www.facebook.com/share/g/1Qw8paq2RW/?mibextid=wwXIfr",
+            "Country__c": "Colombia",
+            "Country_Presence__c": "Colombia",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 3: Good Health and Well-being;SDG 4: Quality Education;SDG 5: Gender Equality;SDG 11: Sustainable Cities and Communities;SDG 15: Life on Land",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002rTgkDAAS"
+            },
+            "Id": "0018c00002rTgkDAAS",
+            "Name": "Asociación Civil Misión Caritas Felices",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000cideVYAQ"
+                },
+                "Id": "003PM00000cideVYAQ",
+                "FirstName": "Lissel",
+                "LastName": "Kruger"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "mcf@misioncaritasfelices.org",
+            "One_liner__c": "Rehabilitar pacientes con labio y paladar fisurado.",
+            "Year_of_foundation__c": 2006.0,
+            "Website": "https://www.misioncaritasfelices.org",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 3: Good Health and Well-being",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002rTgkmAAC"
+            },
+            "Id": "0018c00002rTgkmAAC",
+            "Name": "Impact Startup Competition",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000cideZYAQ"
+                },
+                "Id": "003PM00000cideZYAQ",
+                "FirstName": "Ronald",
+                "LastName": "Barzola"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "ronald@impactstartupcompetition.com",
+            "One_liner__c": "Plataforma de competencia y aceleración de startups de impacto en América Latina, que empodera a emprendedores sociales y ambientales para crear soluciones innovadoras que transformen positivamente sus comunidades y el mundo.",
+            "Year_of_foundation__c": 2020.0,
+            "Website": "https://impactstartupcompetition.com",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": "https://www.linkedin.com/company/isclatam/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002rTglDAAS"
+            },
+            "Id": "0018c00002rTglDAAS",
+            "Name": "Fundación Katy Summer",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c00003MH0YYAA1"
+                },
+                "Id": "0038c00003MH0YYAA1",
+                "FirstName": "Emanuel",
+                "LastName": "Pacheco"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "emanuel@fsummer.org",
+            "One_liner__c": "Salvamos vidas promoviendo salud mental, contención emocional y prevención del suicidio en jóvenes y adultos.",
+            "Year_of_foundation__c": 2019.0,
+            "Website": "https://fsummer.org",
+            "Country__c": "Chile",
+            "Country_Presence__c": "Chile",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 3: Good Health and Well-being;SDG 4: Quality Education",
+            "LinkedIn__c": "https://www.linkedin.com/company/fsummer/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002rTglEAAS"
+            },
+            "Id": "0018c00002rTglEAAS",
+            "Name": "Fundación Timbalé",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000aLU6PYAW"
+                },
+                "Id": "003PM00000aLU6PYAW",
+                "FirstName": "Nathaly Cuesta",
+                "LastName": "Timbalé"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "fundacion@timbale.com.co",
+            "One_liner__c": "Somos una comunidad en movimiento que acompaña a jóvenes a resignificar sus historias y construir futuros posibles a través del arte.",
+            "Year_of_foundation__c": 2015.0,
+            "Website": "https://www.timbale.com.co/fundacion-timbale",
+            "Country__c": "Colombia",
+            "Country_Presence__c": "Colombia",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 11: Sustainable Cities and Communities",
+            "LinkedIn__c": "https://www.linkedin.com/company/timbale/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002rTgm6AAC"
+            },
+            "Id": "0018c00002rTgm6AAC",
+            "Name": "Bive con Bienestar",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000OcZwcYAF"
+                },
+                "Id": "003PM00000OcZwcYAF",
+                "FirstName": "Mildred Johanna",
+                "LastName": "Ortegón Forero"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "dir.ejecutiva@bive.co",
+            "One_liner__c": "Bive, facilita el acceso a servicios de salud para comunidades rurales de Colombia.",
+            "Year_of_foundation__c": 2015.0,
+            "Website": "https://www.bive.co/",
+            "Country__c": "Colombia",
+            "Country_Presence__c": "Colombia",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 3: Good Health and Well-being",
+            "LinkedIn__c": "https://www.linkedin.com/company/bive-s-a-s/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002rTgnJAAS"
+            },
+            "Id": "0018c00002rTgnJAAS",
+            "Name": "Potrero Digital",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c00003MHhQxAAL"
+                },
+                "Id": "0038c00003MHhQxAAL",
+                "FirstName": "Luis",
+                "LastName": "Parenti"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "luisparenti@campinhodigital.org",
+            "One_liner__c": "somos una EdTech Social que profesionaliza personas con menos oportunidades, en el área de Tecnología",
+            "Year_of_foundation__c": 2020.0,
+            "Website": "https://www.potrerodigital.org",
+            "Country__c": "Brazil",
+            "Country_Presence__c": "Brazil",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": "https://www.linkedin.com/school/campinho-digital/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/0018c00002vbXJWAA2"
+            },
+            "Id": "0018c00002vbXJWAA2",
+            "Name": "Nelis Global",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c00003DCTnZAAX"
+                },
+                "Id": "0038c00003DCTnZAAX",
+                "FirstName": "Maria Juliana",
+                "LastName": "Jimenez Sierra"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "juliana@nelisglobal.org",
+            "One_liner__c": "NELIS Global es una organización sin fines de lucro que conecta, inspira y empodera a innovadores sociales, emprendedores e intrapreneurs en todo el mundo. Establecida en Japón en 2015, NELIS actualmente tiene organizaciones sin fines de lucro registradas localmente y capítulos en América Latina, África, Europa, MENA y Asia.",
+            "Year_of_foundation__c": 2015.0,
+            "Website": "https://nelisglobal.org/",
+            "Country__c": "Latin America",
+            "Country_Presence__c": "Latin America",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education;SDG 13: Climate Action;SDG 15: Life on Land;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": "https://www.linkedin.com/company/nelis-global/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000GrfGlYAJ"
+            },
+            "Id": "001PM00000GrfGlYAJ",
+            "Name": "Fundación EDUCA México",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000Ew1jgYAB"
+                },
+                "Id": "003PM00000Ew1jgYAB",
+                "FirstName": "Berenice",
+                "LastName": "Luján Márquez"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "berenice.lujan@educa.org.mx",
+            "One_liner__c": "Fortalecemos escuelas para que niños, niñas, jóvenes y maestros se conviertan en agentes de cambio plenos y felices contribuyendo al desarrollo sostenible.",
+            "Year_of_foundation__c": 1995.0,
+            "Website": "https://www.educa.org.mx/",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Mexico",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": "https://www.linkedin.com/company/fundaci%C3%B3n-educa-m%C3%A9xico-a-c/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000GrpeIYAR"
+            },
+            "Id": "001PM00000GrpeIYAR",
+            "Name": "Fundación FESCO",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000QalrZYAR"
+                },
+                "Id": "003PM00000QalrZYAR",
+                "FirstName": "Patricia",
+                "LastName": "Escobar"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "patricia.escobar@fundacionfesco.org.co",
+            "One_liner__c": "PRESTAR SERVICIOS DE ATENCION",
+            "Year_of_foundation__c": 1985.0,
+            "Website": "https://fundacionfesco.org.co/",
+            "Country__c": "Colombia",
+            "Country_Presence__c": "Colombia",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": "www.linkedin.com/in/carolostat"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000Gs4ztYAB"
+            },
+            "Id": "001PM00000Gs4ztYAB",
+            "Name": "Proyecto Utopía - Universidad de La Salle",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000cideUYAQ"
+                },
+                "Id": "003PM00000cideUYAQ",
+                "FirstName": "Fernando",
+                "LastName": "Molano Mateus"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "lfmolano@lasalle.edu.co",
+            "One_liner__c": "El Proyecto Utopía de la Universidad de La Salle transforma la ruralidad colombiana mediante formación profesional de alta calidad para jóvenes rurales, formando líderes que construyen paz y desarrollo en sus territorios.",
+            "Year_of_foundation__c": 2010.0,
+            "Website": "www.utopia.edu.co",
+            "Country__c": "Colombia",
+            "Country_Presence__c": "Colombia",
+            "Organization_size__c": "501+ employees",
+            "Salesforce_organization_size__c": "Large",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": "https://co.linkedin.com/in/luis-fernando-molano-mateus-7068bb41"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000Gs5b0YAB"
+            },
+            "Id": "001PM00000Gs5b0YAB",
+            "Name": "SAPHI",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000cideaYAA"
+                },
+                "Id": "003PM00000cideaYAA",
+                "FirstName": "Emely",
+                "LastName": "Condor Ballena"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "info@saphiquechua.com",
+            "One_liner__c": "SAPHI, una empresa social que revaloriza las lenguas originarias, la cosmovisión andina y la identidad cultural peruana desde sus raíces",
+            "Year_of_foundation__c": 2020.0,
+            "Website": "https://saphiquechua.com/",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": "https://www.linkedin.com/company/saphi-quechua/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000Gs7xlYAB"
+            },
+            "Id": "001PM00000Gs7xlYAB",
+            "Name": "Fundación Doctora Clown",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000EwDzKYAV"
+                },
+                "Id": "003PM00000EwDzKYAV",
+                "FirstName": "Luz Adriana",
+                "LastName": "Neira Cifuentes"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "doctoraglugli@doctoraclown.org",
+            "One_liner__c": "Potenciamos la salud mental y emocional a traves de la Terapia de la Risa con los doctores clowns en hospitales z hogares",
+            "Year_of_foundation__c": 1998.0,
+            "Website": "https://doctoraclown.org/",
+            "Country__c": "Colombia",
+            "Country_Presence__c": "Colombia",
+            "Organization_size__c": "51 - 500 employees",
+            "Salesforce_organization_size__c": "Medium",
+            "Sustainable_Development_Goals_SDG__c": "SDG 3: Good Health and Well-being;SDG 11: Sustainable Cities and Communities",
+            "LinkedIn__c": "https://www.linkedin.com/company/doctoraclown/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000GsBOfYAN"
+            },
+            "Id": "001PM00000GsBOfYAN",
+            "Name": "De-Mentes",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000EwGkHYAV"
+                },
+                "Id": "003PM00000EwGkHYAV",
+                "FirstName": "Lucero",
+                "LastName": "Andaluz"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "lucero@dementes.org.pe",
+            "One_liner__c": "De-Mentes es una organización dedicada a la promoción y prevención en salud mental desde una mirada comunitaria, interdisciplinaria y libre de estigma.",
+            "Year_of_foundation__c": 2016.0,
+            "Website": "https://dementes.org.pe/",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 3: Good Health and Well-being",
+            "LinkedIn__c": "https://www.linkedin.com/in/luceroandaluz"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000KWhGUYA1"
+            },
+            "Id": "001PM00000KWhGUYA1",
+            "Name": "FundaciónCyK México Escucha",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000cidejYAA"
+                },
+                "Id": "003PM00000cidejYAA",
+                "FirstName": "Carmen",
+                "LastName": "Olmos Zavala"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "dracarmen@fundacioncyk.org.mx",
+            "One_liner__c": "Acompañamiento integral en discapacidad auditiva",
+            "Year_of_foundation__c": 2017.0,
+            "Website": "https://www.fundacioncyk.org.mx/",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Mexico",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 3: Good Health and Well-being",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000NeznXYAR"
+            },
+            "Id": "001PM00000NeznXYAR",
+            "Name": "Fundación Crecer Proyecto Educativo",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000LKyjtYAD"
+                },
+                "Id": "003PM00000LKyjtYAD",
+                "FirstName": "Edgar",
+                "LastName": "Ramírez"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "oromairo1@gmail.com",
+            "One_liner__c": "Desarrollamos proyectos de desarrollo humano",
+            "Year_of_foundation__c": 2009.0,
+            "Website": "https://www.fundacioncrecerpe.org/",
+            "Country__c": "Colombia",
+            "Country_Presence__c": "Colombia",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 1: No Poverty;SDG 3: Good Health and Well-being;SDG 4: Quality Education;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000NoJblYAF"
+            },
+            "Id": "001PM00000NoJblYAF",
+            "Name": "Corporación Gestión Sostenible",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000cidelYAA"
+                },
+                "Id": "003PM00000cidelYAA",
+                "FirstName": "Jhon",
+                "LastName": "Mantilla"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "j.mantilla@gestionsostenible.org",
+            "One_liner__c": "Impulsando el Cambio",
+            "Year_of_foundation__c": 2020.0,
+            "Website": "https://gestionsostenible.org/voluntariado-remoto-latinoamerica-y-caribe/",
+            "Country__c": "Latin America",
+            "Country_Presence__c": "Colombia;Ecuador;Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 2: Zero Hunger;SDG 3: Good Health and Well-being;SDG 4: Quality Education;SDG 5: Gender Equality;SDG 11: Sustainable Cities and Communities;SDG 12: Responsible Consumption and Production;SDG 13: Climate Action;SDG 15: Life on Land;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000NoNDyYAN"
+            },
+            "Id": "001PM00000NoNDyYAN",
+            "Name": "Encauza",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000LUGo1YAH"
+                },
+                "Id": "003PM00000LUGo1YAH",
+                "FirstName": "Luis",
+                "LastName": "Olivas"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "luisolivas@encauza.mx",
+            "One_liner__c": "Brindar apoyo a todos los pacientes con cáncer en situación vulnerable de México",
+            "Year_of_foundation__c": 2007.0,
+            "Website": "https://www.encauza.mx/",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Mexico",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 3: Good Health and Well-being",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000NyQ7FYAV"
+            },
+            "Id": "001PM00000NyQ7FYAV",
+            "Name": "Population Media Center Peru",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000LdckUYAR"
+                },
+                "Id": "003PM00000LdckUYAR",
+                "FirstName": "Veronica",
+                "LastName": "Mujica"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "vmujica@populationmedia.org",
+            "One_liner__c": "Creando un mundo mas sostenible a traves de nuestras historias transformadoras",
+            "Year_of_foundation__c": 1999.0,
+            "Website": "https://www.populationmedia.org",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Guatemala;Mexico;Peru;Africa",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 1: No Poverty;SDG 3: Good Health and Well-being;SDG 4: Quality Education;SDG 5: Gender Equality;SDG 13: Climate Action;SDG 15: Life on Land;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": "https://www.linkedin.com/company/population-media-center/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000O5edJYAR"
+            },
+            "Id": "001PM00000O5edJYAR",
+            "Name": "Fundación Alma",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000LQiULYA1"
+                },
+                "Id": "003PM00000LQiULYA1",
+                "FirstName": "Carmen",
+                "LastName": "de la Maza"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "carmendelamaza@fundacionalma.cl",
+            "One_liner__c": "Acompañar a los cuidadores para que todos los niños de Chile cuenten con un adulto que los acompañe en su desarrollo.",
+            "Year_of_foundation__c": 2015.0,
+            "Website": "https://www.fundacionalma.cl",
+            "Country__c": "Chile",
+            "Country_Presence__c": "Chile",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000O8bXeYAJ"
+            },
+            "Id": "001PM00000O8bXeYAJ",
+            "Name": "yCo. Centro de Fortalecimiento",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000HUXOLYA5"
+                },
+                "Id": "003PM00000HUXOLYA5",
+                "FirstName": "Tatiana",
+                "LastName": "Fraga Diez"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "tatiana@yco.org.mx",
+            "One_liner__c": "fortalecer a la sociedad civil organizada de Nuevo León",
+            "Year_of_foundation__c": 2018.0,
+            "Website": "https://yco.org.mx/",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Mexico",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": "https://www.linkedin.com/company/yco-org-mx/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000O8sQPYAZ"
+            },
+            "Id": "001PM00000O8sQPYAZ",
+            "Name": "Educamás",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000cidekYAA"
+                },
+                "Id": "003PM00000cidekYAA",
+                "FirstName": "Maria",
+                "LastName": "Baene"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "malejabaene@gmail.com",
+            "One_liner__c": "Oportunidades a tráves de la educación y el empleo",
+            "Year_of_foundation__c": 2015.0,
+            "Website": "https://educamas.com.co/",
+            "Country__c": "Colombia",
+            "Country_Presence__c": "Colombia;Mexico",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": "www.linkedin.com/in/julianafajardo"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000ODenHYAT"
+            },
+            "Id": "001PM00000ODenHYAT",
+            "Name": "Interculturalidad, Salud y Derechos AC - INSADE",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000LuU7RYAV"
+                },
+                "Id": "003PM00000LuU7RYAV",
+                "FirstName": "Daniel",
+                "LastName": "Serrano"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "insade.ac@gmail.com",
+            "One_liner__c": "Generamos estrategias de reinserción social y autonomía económica en personas que estuvieron en prisión",
+            "Year_of_foundation__c": 2011.0,
+            "Website": "https://www.insade.mx/",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Mexico",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 5: Gender Equality;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000ODenOYAT"
+            },
+            "Id": "001PM00000ODenOYAT",
+            "Name": "Fundación Ser Maestro",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c000039l7S2AAI"
+                },
+                "Id": "0038c000039l7S2AAI",
+                "FirstName": "Jaime",
+                "LastName": "Montes García"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "jaime.montes@sermaestro.org",
+            "One_liner__c": "La comunidad de docentes rurales más grande de América Latina",
+            "Year_of_foundation__c": 2020.0,
+            "Website": "https://sermaestro.org/",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Colombia;Honduras;Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": "https://www.linkedin.com/company/fundaci%C3%B3n-ser-maestro/posts/?feedView=all"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000ODendYAD"
+            },
+            "Id": "001PM00000ODendYAD",
+            "Name": "Fundación Educación para Compartir",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000Ob5EDYAZ"
+                },
+                "Id": "003PM00000Ob5EDYAZ",
+                "FirstName": "Pablo",
+                "LastName": "Jordan"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "pablo.jordan@educacionparacompartir.org",
+            "One_liner__c": "Formar ciudadanas y ciudadanos globales a través del poder del juego",
+            "Year_of_foundation__c": 2007.0,
+            "Website": "https://educacionparacompartir.org/",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Argentina;Bolivia;Brazil;Colombia;Dominican Republic;Ecuador;Guatemala;Mexico;Panama;United States",
+            "Organization_size__c": "51 - 500 employees",
+            "Salesforce_organization_size__c": "Medium",
+            "Sustainable_Development_Goals_SDG__c": "SDG 1: No Poverty;SDG 2: Zero Hunger;SDG 3: Good Health and Well-being;SDG 4: Quality Education;SDG 5: Gender Equality;SDG 11: Sustainable Cities and Communities;SDG 13: Climate Action;SDG 15: Life on Land;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": "https://www.linkedin.com/company/educacion-para-compartir/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000ODenzYAD"
+            },
+            "Id": "001PM00000ODenzYAD",
+            "Name": "Incubadora de Liderazgos +Costa Rica",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000EvuOpYAJ"
+                },
+                "Id": "003PM00000EvuOpYAJ",
+                "FirstName": "Juan Guillermo",
+                "LastName": "Murillo Chinchilla"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "jmurillo@mascr.org",
+            "One_liner__c": "Identificamos, empoderamos y conectamos a liderazgos políticos comprometidos con la democracia, preparados para trabajar de manera colaborativa y multipartidaria",
+            "Year_of_foundation__c": 2023.0,
+            "Website": "www.mascr.org",
+            "Country__c": "Costa Rica",
+            "Country_Presence__c": "Costa Rica",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": "https://www.linkedin.com/in/juan-guillermo-murillo-chinchilla-399a0286/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000ODeofYAD"
+            },
+            "Id": "001PM00000ODeofYAD",
+            "Name": "Peruanos Unidos por la Cocina y la Alimentación - PUCA",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c00003D9uF4AAJ"
+                },
+                "Id": "0038c00003D9uF4AAJ",
+                "FirstName": "Diego",
+                "LastName": "Valdeiglesias"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "diego.valdeiglesias@puca.org.pe",
+            "One_liner__c": "Buscamos fortalecer el sistema alimentario peruano, mejorando la vida y las oportunidades de quienes forman parte de ella.",
+            "Year_of_foundation__c": 2019.0,
+            "Website": "https://puca.org.pe/",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 2: Zero Hunger;SDG 12: Responsible Consumption and Production;SDG 13: Climate Action;SDG 15: Life on Land",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000ODeq9YAD"
+            },
+            "Id": "001PM00000ODeq9YAD",
+            "Name": "Por Ti Mi Sangre",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000LuLP8YAN"
+                },
+                "Id": "003PM00000LuLP8YAN",
+                "FirstName": "Adriana",
+                "LastName": "Ulloa Vera"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "alianzas@portimisangre.org.pe",
+            "One_liner__c": "Organización social sin fines de lucro que promueve la cultura de donación voluntaria de sangre por medio de campañas móviles en diversos puntos de Lima.",
+            "Year_of_foundation__c": 2014.0,
+            "Website": "https://portimisangre.org.pe/",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 3: Good Health and Well-being",
+            "LinkedIn__c": "https://www.linkedin.com/company/portimisangrepe/?originalSubdomain=pe"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000OHmf8YAD"
+            },
+            "Id": "001PM00000OHmf8YAD",
+            "Name": "Furas",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000LwvhlYAB"
+                },
+                "Id": "003PM00000LwvhlYAB",
+                "FirstName": "paula",
+                "LastName": "giraldo"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "furas.fuerzademujer@gmail.com",
+            "One_liner__c": "Soporte para emprendedoras y comercialización de productos y servicios",
+            "Year_of_foundation__c": 2020.0,
+            "Website": "https://www.furascolombia.org",
+            "Country__c": "Colombia",
+            "Country_Presence__c": "Colombia",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education;SDG 5: Gender Equality;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000PFW8AYAX"
+            },
+            "Id": "001PM00000PFW8AYAX",
+            "Name": "Grupo Dios Cacao",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000MtYimYAF"
+                },
+                "Id": "003PM00000MtYimYAF",
+                "FirstName": "Rocio",
+                "LastName": "Norzagaray"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "grupodioscacao@gmail.com",
+            "One_liner__c": "empoderamos a las mujeres detrás del cacao",
+            "Year_of_foundation__c": 2010.0,
+            "Website": "https://dioscacao.com/",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Mexico",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 2: Zero Hunger;SDG 5: Gender Equality;SDG 12: Responsible Consumption and Production",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000PIl0UYAT"
+            },
+            "Id": "001PM00000PIl0UYAT",
+            "Name": "Fundación Formando Sociedad",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000MwtVhYAJ"
+                },
+                "Id": "003PM00000MwtVhYAJ",
+                "FirstName": "Roberto",
+                "LastName": "Rico Daza"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "formandosociedad@hotmail.com",
+            "One_liner__c": "RESTABLECEMOS DERECHOS VULNERADOS",
+            "Year_of_foundation__c": 2015.0,
+            "Website": "https://fundacionformandosociedad.org",
+            "Country__c": "Colombia",
+            "Country_Presence__c": "Colombia",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 2: Zero Hunger;SDG 3: Good Health and Well-being;SDG 5: Gender Equality;SDG 11: Sustainable Cities and Communities;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000QKwKHYA1"
+            },
+            "Id": "001PM00000QKwKHYA1",
+            "Name": "Fundación Pro Estudio",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000cidegYAA"
+                },
+                "Id": "003PM00000cidegYAA",
+                "FirstName": "Erika",
+                "LastName": "Alfaro Signoret"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "erika.alfaro@jovenesqueimpactan.org",
+            "One_liner__c": "Impulsar la empleabilidad juvenil a través del desarrollo profesional, personal y académico.",
+            "Year_of_foundation__c": 2016.0,
+            "Website": "https://www.jovenesqueimpactan.org",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Mexico",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education;SDG 5: Gender Equality;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000QSn3fYAD"
+            },
+            "Id": "001PM00000QSn3fYAD",
+            "Name": "Círculo VIP",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000O5fXlYAJ"
+                },
+                "Id": "003PM00000O5fXlYAJ",
+                "FirstName": "Victor",
+                "LastName": "Quintanilla"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "circulovipempresarial@gmail.com",
+            "One_liner__c": "Agencia Fundrasing",
+            "Year_of_foundation__c": 2022.0,
+            "Website": "https://circulovip.com",
+            "Country__c": "Chile",
+            "Country_Presence__c": "Chile",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 3: Good Health and Well-being",
+            "LinkedIn__c": "https://www.linkedin.com/company/circulovip/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000QolyYYAR"
+            },
+            "Id": "001PM00000QolyYYAR",
+            "Name": "CasaSito Association",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000LuxFqYAJ"
+                },
+                "Id": "003PM00000LuxFqYAJ",
+                "FirstName": "Helena",
+                "LastName": "Murphy"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "helena@casasito.org",
+            "One_liner__c": "Apoyando a los jóvenes y docentes guatemaltecos a través de becas parciales, apoyo psicosocial, talleres de desarrollo personal y actividades extracurriculares.",
+            "Year_of_foundation__c": 2004.0,
+            "Website": "https://casasito.org/es/",
+            "Country__c": "Guatemala",
+            "Country_Presence__c": "Guatemala",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000QolyjYAB"
+            },
+            "Id": "001PM00000QolyjYAB",
+            "Name": "EcoSwell",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000LuU7mYAF"
+                },
+                "Id": "003PM00000LuU7mYAF",
+                "FirstName": "Andres",
+                "LastName": "Bustamante"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "andres.bustamante@ecoswell.org",
+            "One_liner__c": "Guiar el desarrollo sostenible de comunidades marginadas implementando proyectos alineados a los Objetivos de Desarrollo Sostenible (ODS)",
+            "Year_of_foundation__c": 2013.0,
+            "Website": "https://www.ecoswell.org",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 3: Good Health and Well-being;SDG 4: Quality Education;SDG 13: Climate Action;SDG 15: Life on Land",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000QolyzYAB"
+            },
+            "Id": "001PM00000QolyzYAB",
+            "Name": "Institución para el Bienestar Qué y Cómo, A.C.",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000LuLMcYAN"
+                },
+                "Id": "003PM00000LuLMcYAN",
+                "FirstName": "Yoalli",
+                "LastName": "Navarro"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "yoalli.navarro@queycomo.org",
+            "One_liner__c": "Impulsar el bienestar emocional de madres y cuidadores de niñas y niños, especialmente de aquellos que se encuentran dentro de la primera infancia, para que mejoren sus condiciones y calidad de vida",
+            "Year_of_foundation__c": 2020.0,
+            "Website": "https://www.queycomo.org",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Mexico",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 3: Good Health and Well-being",
+            "LinkedIn__c": "https://www.linkedin.com/company/queycomo/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000Qolz0YAB"
+            },
+            "Id": "001PM00000Qolz0YAB",
+            "Name": "MAIA Impact",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c00003Av3ccAAB"
+                },
+                "Id": "0038c00003Av3ccAAB",
+                "FirstName": "Vilma",
+                "LastName": "Saloj"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "vilma@maiagt.org",
+            "One_liner__c": "En MAIA maximizamos el poder transformador de las mujeres para crear una sociedad con equidad y oportunidades.",
+            "Year_of_foundation__c": 2007.0,
+            "Website": "https://www.maiaimpact.org/",
+            "Country__c": "Guatemala",
+            "Country_Presence__c": "Guatemala",
+            "Organization_size__c": "51 - 500 employees",
+            "Salesforce_organization_size__c": "Medium",
+            "Sustainable_Development_Goals_SDG__c": "SDG 3: Good Health and Well-being;SDG 4: Quality Education;SDG 5: Gender Equality;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": "https://www.linkedin.com/company/maiaimpact/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000Qolz8YAB"
+            },
+            "Id": "001PM00000Qolz8YAB",
+            "Name": "United Way Chile",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000LuU7YYAV"
+                },
+                "Id": "003PM00000LuU7YYAV",
+                "FirstName": "María",
+                "LastName": "Rodríguez"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "mariainesrodriguez@unitedway.cl",
+            "One_liner__c": "Transformamos la educación",
+            "Year_of_foundation__c": 2014.0,
+            "Website": "https://www.unitedway.cl",
+            "Country__c": "Chile",
+            "Country_Presence__c": "Argentina;Brazil;Chile;Colombia;Guatemala;Mexico;Peru;Venezuela",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": "https://www.linkedin.com/company/united-way-chile/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000R0f0RYAR"
+            },
+            "Id": "001PM00000R0f0RYAR",
+            "Name": "Fundacion Comparte",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000RPqa9YAD"
+                },
+                "Id": "003PM00000RPqa9YAD",
+                "FirstName": "Lala",
+                "LastName": "Lovera"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "lala.lovera@cpuvcolombia.org",
+            "One_liner__c": "Promovemos la permanencia escolar como herramienta de inclusión",
+            "Year_of_foundation__c": 2018.0,
+            "Website": "https://www.cpuvcolombia.org",
+            "Country__c": "Colombia",
+            "Country_Presence__c": "Colombia",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 1: No Poverty;SDG 2: Zero Hunger;SDG 3: Good Health and Well-being;SDG 4: Quality Education;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": "https://www.linkedin.com/company/fundacion-comparte/posts/?feedView=all"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000R0wHNYAZ"
+            },
+            "Id": "001PM00000R0wHNYAZ",
+            "Name": "El Arca de México IAP",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000N63FiYAJ"
+                },
+                "Id": "003PM00000N63FiYAJ",
+                "FirstName": "Juan Carlos",
+                "LastName": "Guzmán Guillén"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "jcguzman@elarcademexico.org",
+            "One_liner__c": "Dar a conocer los dones de las personas con discapacidad intelectual, revelados a través de transformadoras relaciones mutuas.",
+            "Year_of_foundation__c": 1985.0,
+            "Website": "https://elarcademexico.org/",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Argentina;Brazil;Dominican Republic;Honduras;Mexico;Haiti",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 11: Sustainable Cities and Communities;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000RTifgYAD"
+            },
+            "Id": "001PM00000RTifgYAD",
+            "Name": "Comunidad de Organizaciones Solidarias",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000LuU7fYAF"
+                },
+                "Id": "003PM00000LuU7fYAF",
+                "FirstName": "Henrique",
+                "LastName": "Martins da Silveira"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "hmartins@comunidad-org.cl",
+            "One_liner__c": "Somos una red de organizaciones de la sociedad civil que cree en el actuar colaborativo para la construcción de un país más justo, solidario y sostenible.",
+            "Year_of_foundation__c": 2007.0,
+            "Website": "https://comunidad-org.cl/",
+            "Country__c": "Chile",
+            "Country_Presence__c": "Chile",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": "https://www.linkedin.com/company/comunidaddeorganizacionesolidarias/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000T3W6RYAV"
+            },
+            "Id": "001PM00000T3W6RYAV",
+            "Name": "Lumni",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000QalcCYAR"
+                },
+                "Id": "003PM00000QalcCYAR",
+                "FirstName": "Ana Maria",
+                "LastName": "Zuluaga"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "ana.zuluaga@lumni.net",
+            "One_liner__c": "Financiación educativa flexible y a largo plazo",
+            "Year_of_foundation__c": 2006.0,
+            "Website": "https://www.lumni.net/",
+            "Country__c": "Colombia",
+            "Country_Presence__c": "Chile;Colombia;Mexico;Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education;SDG 13: Climate Action;SDG 15: Life on Land",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000TrmnPYAR"
+            },
+            "Id": "001PM00000TrmnPYAR",
+            "Name": "ConnectED",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000Ew0qpYAB"
+                },
+                "Id": "003PM00000Ew0qpYAB",
+                "FirstName": "Claudia",
+                "LastName": "Meneses"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "claudia@connectedfellows.org",
+            "One_liner__c": "ConnectED cataliza una red de líderes educativos para transformar sus comunidades en las zonas rurales de América Latina.",
+            "Year_of_foundation__c": 2017.0,
+            "Website": "connectedfellows.org",
+            "Country__c": "Nicaragua",
+            "Country_Presence__c": "Nicaragua",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": "https://www.linkedin.com/in/lauradell829/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000URxCSYA1"
+            },
+            "Id": "001PM00000URxCSYA1",
+            "Name": "Agua Somos",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000cidepYAA"
+                },
+                "Id": "003PM00000cidepYAA",
+                "FirstName": "Lina",
+                "LastName": "Herrera"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "lina.herrera@aguasomos.org",
+            "One_liner__c": "Somos una plataforma de articulación para generar acciones colaborativas en pro del cuidado de Agua en la región de Bogotá",
+            "Year_of_foundation__c": 2010.0,
+            "Website": "https://fondoaguasomos.com/",
+            "Country__c": "Colombia",
+            "Country_Presence__c": "Colombia",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 13: Climate Action;SDG 15: Life on Land",
+            "LinkedIn__c": "https://www.linkedin.com/in/fondo-de-agua-de-bogot%C3%A1-regi%C3%B3n-7b34a5280/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000V6IOcYAN"
+            },
+            "Id": "001PM00000V6IOcYAN",
+            "Name": "Fundación Becar",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c00003GGwe8AAD"
+                },
+                "Id": "0038c00003GGwe8AAD",
+                "FirstName": "María",
+                "LastName": "Tejedo Garza Galindo"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "maria@fundacionbecar.org",
+            "One_liner__c": "La educación es la solución",
+            "Year_of_foundation__c": 2000.0,
+            "Website": "fundacionbecar.org",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Mexico",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000aQ0cZYAS"
+            },
+            "Id": "001PM00000aQ0cZYAS",
+            "Name": "Fundación CHI A.C.",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000cideoYAA"
+                },
+                "Id": "003PM00000cideoYAA",
+                "FirstName": "Jazmín",
+                "LastName": "Chi A"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "fundacionchi.ac@gmail.com",
+            "One_liner__c": "Nos dedicamos a difundir educación de calidad a niños, jóvenes y adultos en todo el mundo.",
+            "Year_of_foundation__c": 2022.0,
+            "Website": "https://allmylinks.com/fundacionchi-ac",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Mexico",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": "https://www.linkedin.com/company/fundacionchi/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000b5TdeYAE"
+            },
+            "Id": "001PM00000b5TdeYAE",
+            "Name": "Emprendemos",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000P1mx3YAB"
+                },
+                "Id": "003PM00000P1mx3YAB",
+                "FirstName": "Ricardo",
+                "LastName": "Bustos"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "direccion@epch.org.mx",
+            "One_liner__c": "Impulsar el emprendimiento de impacto social",
+            "Year_of_foundation__c": 2012.0,
+            "Website": "https://emprendemos.org.mx",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Mexico",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education;SDG 5: Gender Equality;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000b5ZRJYA2"
+            },
+            "Id": "001PM00000b5ZRJYA2",
+            "Name": "AYNI EDUCATIVO",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000SyaQHYAZ"
+                },
+                "Id": "003PM00000SyaQHYAZ",
+                "FirstName": "Jhon Deyvis",
+                "LastName": "Villena Orellano"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "jhon.villena@aynieducativo.com",
+            "One_liner__c": "Somos el primer colegio virtual en Perú que forma a niños y adolescentes con clases virtuales y talleres en liderazgo y tecnología, llegando a colegios nacionales y rurales.",
+            "Year_of_foundation__c": 2020.0,
+            "Website": "https://www.aynieducativo.com/",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Bolivia;Colombia;Peru",
+            "Organization_size__c": "51 - 500 employees",
+            "Salesforce_organization_size__c": "Medium",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education;SDG 5: Gender Equality;SDG 13: Climate Action;SDG 15: Life on Land;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000b5gEFYAY"
+            },
+            "Id": "001PM00000b5gEFYAY",
+            "Name": "UNIFEST",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000ZXVPIYA5"
+                },
+                "Id": "003PM00000ZXVPIYA5",
+                "FirstName": "Analucía",
+                "LastName": "Morgan"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "analucia@unifest.pe",
+            "One_liner__c": "Plataforma de exhibición de proyectos cinematográficos universitarios que fomenta la cultura cinematográfica y busca generar oportunidades en el mercado laboral audiovisual.",
+            "Year_of_foundation__c": 2022.0,
+            "Website": "https://unifest.pe/",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education;SDG 5: Gender Equality;SDG 11: Sustainable Cities and Communities",
+            "LinkedIn__c": "https://www.linkedin.com/company/unifestpe/?viewAsMember=true"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000b5hgYYAQ"
+            },
+            "Id": "001PM00000b5hgYYAQ",
+            "Name": "Nogales+",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000LuLMJYA3"
+                },
+                "Id": "003PM00000LuLMJYA3",
+                "FirstName": "Andrea",
+                "LastName": "Cerón"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "andredeux@gmail.com",
+            "One_liner__c": "NogalesPlus (N+) es una aceleradora que busca cerrar brechas e impactar en la calidad educativa en Colombia y en Latinoamérica",
+            "Year_of_foundation__c": 2023.0,
+            "Website": "https://www.nogalesplus.com",
+            "Country__c": "Colombia",
+            "Country_Presence__c": "Colombia",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education",
+            "LinkedIn__c": "https://www.linkedin.com/in/cristina-child-587a4328/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ec"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000b5mujYAA"
+            },
+            "Id": "001PM00000b5mujYAA",
+            "Name": "Fundación Zoraida",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000SFM4zYAH"
+                },
+                "Id": "003PM00000SFM4zYAH",
+                "FirstName": "Marcela",
+                "LastName": "Gutiérrez Gracia"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "mgutierrez@fundacionzoraida.org",
+            "One_liner__c": "Impulsar el desarrollo regional y la movilidad social a través de la educación de niñas, niños y jóvenes, y de oportunidades de empleo para la juventud y productividad para las empresas.",
+            "Year_of_foundation__c": 1935.0,
+            "Website": "https://fundacionzoraida.org/",
+            "Country__c": "Colombia",
+            "Country_Presence__c": "Colombia",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 1: No Poverty;SDG 3: Good Health and Well-being;SDG 4: Quality Education;SDG 5: Gender Equality;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000b5pJ7YAI"
+            },
+            "Id": "001PM00000b5pJ7YAI",
+            "Name": "Warmi Ventures",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000LuLMRYA3"
+                },
+                "Id": "003PM00000LuLMRYA3",
+                "FirstName": "Jaime Alejandro",
+                "LastName": "Fernández Chávez"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "warmi.ventures@gmail.com",
+            "One_liner__c": "Empoderamiento y emprendimiento femenino",
+            "Year_of_foundation__c": 2020.0,
+            "Website": "https://www.linkedin.com/company/warmi-ventures/",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Argentina;Bolivia;Chile;Colombia;Ecuador;Mexico;Paraguay;Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education;SDG 5: Gender Equality",
+            "LinkedIn__c": "https://www.linkedin.com/company/warmi-ventures/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000b5sleYAA"
+            },
+            "Id": "001PM00000b5sleYAA",
+            "Name": "Pavo Down",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/0038c00003DCT63AAH"
+                },
+                "Id": "0038c00003DCT63AAH",
+                "FirstName": "Gabriela",
+                "LastName": "Mendoza González"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "pavodown@outlook.com",
+            "One_liner__c": "Somos una Sociedad Cooperativa que nos dedicamos a la producción, transformación y venta de la carne de pavo en colaboración con Jóvenes con Síndrome de Down para que tengan una vida digna, incluida y feliz.",
+            "Year_of_foundation__c": 2017.0,
+            "Website": "https://www.pavodown.com/",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Mexico",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 2: Zero Hunger",
+            "LinkedIn__c": "https://www.linkedin.com/in/gabriela-mendoza-gonz%C3%A1lez-926685186/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000bPVWSYA4"
+            },
+            "Id": "001PM00000bPVWSYA4",
+            "Name": "AMPA",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QcYAI"
+                },
+                "Name": "Propeler"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000cidedYAA"
+                },
+                "Id": "003PM00000cidedYAA",
+                "FirstName": "Rita",
+                "LastName": "Vilca Lucana"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "ritavilca@ampaperu.org",
+            "One_liner__c": "Conservamos la vida para compartirla contigo",
+            "Year_of_foundation__c": 2004.0,
+            "Website": "https://ampaperu.info/",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education;SDG 5: Gender Equality;SDG 13: Climate Action;SDG 15: Life on Land;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000bRrSuYAK"
+            },
+            "Id": "001PM00000bRrSuYAK",
+            "Name": "Kukulmat",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000ZM11MYAT"
+                },
+                "Id": "003PM00000ZM11MYAT",
+                "FirstName": "Angel",
+                "LastName": "Solis"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "kukulmat@gmail.com",
+            "One_liner__c": "Kukulmat impulsa la preservación y revitalización de las culturas originarias mediante educación, tecnología y experiencias comunitarias que empoderan a las nuevas generaciones.",
+            "Year_of_foundation__c": 2017.0,
+            "Website": "https://www.kukulmat.mx/",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Guatemala;Mexico",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 1: No Poverty;SDG 3: Good Health and Well-being;SDG 4: Quality Education;SDG 11: Sustainable Cities and Communities;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000eB9QpYAK"
+            },
+            "Id": "001PM00000eB9QpYAK",
+            "Name": "AESI",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000cidenYAA"
+                },
+                "Id": "003PM00000cidenYAA",
+                "FirstName": "David",
+                "LastName": "Zabaleta Mallqui"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "david.zabaleta@aesiong.org",
+            "One_liner__c": "APOYAR A QUIENES MAS LO NECESITAN SIN FINES DE LUCRO",
+            "Year_of_foundation__c": 2024.0,
+            "Website": "https://ongaesi.org/",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 3: Good Health and Well-being;SDG 4: Quality Education;SDG 5: Gender Equality;SDG 11: Sustainable Cities and Communities;SDG 13: Climate Action;SDG 15: Life on Land;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": "https://www.linkedin.com/company/aesiong/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000eBHWPYA4"
+            },
+            "Id": "001PM00000eBHWPYA4",
+            "Name": "Fundación Humanista de Ayuda a Discapacitados, FHADI I.A.P.",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000cideeYAA"
+                },
+                "Id": "003PM00000cideeYAA",
+                "FirstName": "Román",
+                "LastName": "Maldonado Jiménez"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "direcciongeneral@fhadi.org",
+            "One_liner__c": "Inclusión",
+            "Year_of_foundation__c": 1997.0,
+            "Website": "https://fhadi.org/",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Mexico",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 3: Good Health and Well-being;SDG 4: Quality Education",
+            "LinkedIn__c": "https://www.linkedin.com/company/fhadi/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000eBJ9zYAG"
+            },
+            "Id": "001PM00000eBJ9zYAG",
+            "Name": "Asociación Microtia Quintana Roo",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000ciNZZYA2"
+                },
+                "Id": "003PM00000ciNZZYA2",
+                "FirstName": "Alan",
+                "LastName": "Santos"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "asociacionmicrotia@gmail.com",
+            "One_liner__c": "Atención integral de discapacidad auditiva para todas las edades",
+            "Year_of_foundation__c": 2019.0,
+            "Website": "https://www.asociacionmicrotia.com",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Mexico",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 1: No Poverty;SDG 3: Good Health and Well-being;SDG 4: Quality Education;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000eBTxJYAW"
+            },
+            "Id": "001PM00000eBTxJYAW",
+            "Name": "Superlearner Perú",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000LuLM8YAN"
+                },
+                "Id": "003PM00000LuLM8YAN",
+                "FirstName": "Caterina",
+                "LastName": "Suzzi"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "caterina@superlearnerperu.com",
+            "One_liner__c": "La misión de Superlearner Perú es mejorar la calidad de los niños que viven en situación de vulnerabilidad a través de la educación",
+            "Year_of_foundation__c": 2017.0,
+            "Website": "https://superlearnerperu.com",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 1: No Poverty;SDG 3: Good Health and Well-being;SDG 4: Quality Education;SDG 11: Sustainable Cities and Communities;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000eBUJvYAO"
+            },
+            "Id": "001PM00000eBUJvYAO",
+            "Name": "Comunidad de Sinaí",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000bodhoYAA"
+                },
+                "Id": "003PM00000bodhoYAA",
+                "FirstName": "Cesar Urias",
+                "LastName": "Lara"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "direccion@comunidadsinai.org",
+            "One_liner__c": "Prevención y rehabilitación de las adicciones",
+            "Year_of_foundation__c": 2001.0,
+            "Website": "https://comunidadsinai.org/",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Mexico",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 3: Good Health and Well-being",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000eBZogYAG"
+            },
+            "Id": "001PM00000eBZogYAG",
+            "Name": "YouthBuild México A.C.",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000cidefYAA"
+                },
+                "Id": "003PM00000cidefYAA",
+                "FirstName": "Maria Fernanda",
+                "LastName": "Loya García"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "mloya@youthbuildmexico.org",
+            "One_liner__c": "Creemos en la posibilidad de un país donde todas sus juventudes tienen acceso a una vida y  trabajo dignos",
+            "Year_of_foundation__c": 2013.0,
+            "Website": "https://youthbuildmexico.org/",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Mexico",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education;SDG 5: Gender Equality;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": "https://www.linkedin.com/company/youthbuildmx/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000eBcHSYA0"
+            },
+            "Id": "001PM00000eBcHSYA0",
+            "Name": "Consejo Promotor de Innovación y Diseño",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000cidehYAA"
+                },
+                "Id": "003PM00000cidehYAA",
+                "FirstName": "Laura",
+                "LastName": "Maceira"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "presidencia@consejo-id.org",
+            "One_liner__c": "Somos una asociación civil que impulsa a las industrias creativas en Jalisco, convencidos de que la creatividad profesional es el principal generador de innovación",
+            "Year_of_foundation__c": 2010.0,
+            "Website": "https://www.consejo-id.org/",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Mexico",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 4: Quality Education;SDG 11: Sustainable Cities and Communities;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": "https://www.linkedin.com/company/consejoid/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000eBesjYAC"
+            },
+            "Id": "001PM00000eBesjYAC",
+            "Name": "Integración Para la Vida México",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000ciVlNYAU"
+                },
+                "Id": "003PM00000ciVlNYAU",
+                "FirstName": "Manuela",
+                "LastName": "Osorio"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "manuelaosorio@inpavi.org",
+            "One_liner__c": "Ayuda integral que transforma",
+            "Year_of_foundation__c": 1986.0,
+            "Website": "https://integracionparalavida.org/paises/mexico/",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Chile;Mexico;United States;Spain;Canada",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 1: No Poverty;SDG 2: Zero Hunger;SDG 3: Good Health and Well-being;SDG 4: Quality Education;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": null
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000eBf7SYAS"
+            },
+            "Id": "001PM00000eBf7SYAS",
+            "Name": "Programa Escappate",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000cidemYAA"
+                },
+                "Id": "003PM00000cidemYAA",
+                "FirstName": "Adrián",
+                "LastName": "Huertas Castiglione"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "programaescapate@gmail.com",
+            "One_liner__c": "Escuelas de Capacitación de Políticas Públicas, Activismo, Transformación y Emprendimiento",
+            "Year_of_foundation__c": 2023.0,
+            "Website": "https://www.programaescappate.com",
+            "Country__c": "Peru",
+            "Country_Presence__c": "Peru",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 3: Good Health and Well-being;SDG 4: Quality Education;SDG 13: Climate Action;SDG 15: Life on Land;SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": "https://www.linkedin.com/company/programa-escappate/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000eBfTqYAK"
+            },
+            "Id": "001PM00000eBfTqYAK",
+            "Name": "Bogotá Cómo Vamos",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000YzOl7YAF"
+                },
+                "Id": "003PM00000YzOl7YAF",
+                "FirstName": "Felipe",
+                "LastName": "Mariño"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "director@bogotacomovamos.org",
+            "One_liner__c": "Somos un ejercicio ciudadano de seguimiento y monitoreo a los cambios en la calidad de vida de la ciudad y al Concejo de Bogotá DC.",
+            "Year_of_foundation__c": 1998.0,
+            "Website": "https://bogotacomovamos.org/",
+            "Country__c": "Colombia",
+            "Country_Presence__c": "Colombia",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 16: Peace, Justice and Strong Institutions",
+            "LinkedIn__c": "https://www.linkedin.com/in/lauraospinadigital/"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "url": "/services/data/v59.0/sobjects/Account/001PM00000eBgUjYAK"
+            },
+            "Id": "001PM00000eBgUjYAK",
+            "Name": "Fundación Ellen West",
+            "RecordType": {
+                "attributes": {
+                    "type": "RecordType",
+                    "url": "/services/data/v59.0/sobjects/RecordType/012PM000000z1QeYAI"
+                },
+                "Name": "Social organization"
+            },
+            "Directory_Status__c": "Approved (visible) – Published and visible in the directory.",
+            "Published_in_Directory__c": true,
+            "npe01__One2OneContact__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v59.0/sobjects/Contact/003PM00000cideiYAA"
+                },
+                "Id": "003PM00000cideiYAA",
+                "FirstName": "Aracely",
+                "LastName": "Aizpuru de la Portilla"
+            },
+            "Account_Phone__c": null,
+            "Account_Email__c": "info@fundacionellenwest.org",
+            "One_liner__c": "Atención especializada frente a trastornos de la conducta alimentaria",
+            "Year_of_foundation__c": 1998.0,
+            "Website": "https://fundacionellenwest.org/",
+            "Country__c": "Mexico",
+            "Country_Presence__c": "Mexico",
+            "Organization_size__c": "0 - 50 employees",
+            "Salesforce_organization_size__c": "Small",
+            "Sustainable_Development_Goals_SDG__c": "SDG 3: Good Health and Well-being",
+            "LinkedIn__c": null
+        }
+    ]
+}

@@ -5,12 +5,12 @@ import {
 } from "@/components/ui/card";
 
 const cardBaseStyles =
-  "min-w-[350px] max-w-[600px] h-full max-h-[600px] bg-[#EFECE6] rounded-xl p-6 flex flex-col gap-4 shadow-lg";
+  "min-w-[300px] max-w-[600px] h-full max-h-[600px] bg-[#EFECE6] rounded-xl p-6 flex flex-col gap-4 shadow-lg";
 
 export function NgoOverview() {
   return (
     <div className="flex flex-col h-full">
-      <h2 className="text-2xl font-bold mb-4 text-center">NGO Overview</h2>
+      <h2 className="text-2xl font-extralight mb-4 text-center">NGO Overview</h2>
       <Card className={cardBaseStyles}>
 
         {/* Contenido que crece y hace scroll si supera la altura */}
@@ -18,7 +18,7 @@ export function NgoOverview() {
           <span className="font-semibold">Country:</span>
           <span>Perú</span>
           <span className="font-semibold">Year founded:</span>
-          <span>2010</span>
+          <span className="mono">2010</span>
           <span className="font-semibold">Org Size:</span>
           <span>Medium</span>
           <span className="font-semibold">Social cause:</span>

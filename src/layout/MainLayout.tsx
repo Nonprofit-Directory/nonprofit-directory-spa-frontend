@@ -7,7 +7,7 @@ const MainLayout = () => {
       <Navbar />
       <main 
        id="scroll-container"
-       className="flex-1 overflow-y-auto bg-[var(--propel-clay-gray)] p-6"
+       className="flex-1 overflow-y-auto bg-[var(--propel-clay-gray)] sm:p-6"
        >
         <Outlet />
       </main>

@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&display=swap');
+
 @import "tailwindcss";
 @import "tw-animate-css";
 
@@ -5,27 +8,72 @@
 
 /* Elementos de PROPEL */
 @theme {
-  --font-ubuntu: "Ubuntu", sans-serif;
+  /* --font-ubuntu: "Ubuntu", sans-serif; */
   --font-rubik: "Rubik", sans-serif;
+  --font-libre-franklin: "Libre Franklin", sans-serif;
+  --font-dm-mono: "DM Mono", monospace;
   /* Colors */
   /* Colors from proyect. */
-  --propel-rich-green: #003A37;
+  --propel-rich-green: #144a46;
   --propel-ignite-orange: #FF693B;
   --propel-friend-yellow: #EFE565;
   --propel-wise-blue: #5276D1;
   --propel-deep-gray: #242D3A;
   --propel-clay-gray: #EFECE6;
-  --propel-clay-high: #fffcf4;
+  --propel-clay-high: #ffffff;
+
+  /* Cuerpo de texto */
+  --fs-base:   clamp(1rem, 1.5vw, 1.125rem);
+  /* Textos ligeramente grandes (p. ej. lead paragraphs) */
+  --fs-lg:     clamp(1.125rem, 1.8vw, 1.25rem);
+  /* Pequeños títulos o subtítulos */
+  --fs-sm:     clamp(0.875rem, 1vw, 1rem);
+
+  /* Encabezados */
+  --fs-2xl:    clamp(1.5rem, 2.5vw, 2rem);   /* H3 */
+  --fs-3xl:    clamp(1.75rem, 3vw, 2.5rem);  /* H2 */
+  --fs-4xl:    clamp(2rem, 4vw, 3rem);       /* H1 */
+  --fs-5xl:    clamp(2.5rem, 5vw, 4rem);     /* H0 / hero */
 }
 
 @layer base {
-  h1, h2, h3, h4, h5, h6 {
-    font-family: var(--font-ubuntu);
-    font-weight: bold;
+  h1, .title {
+    font-size: var(--fs-4xl);
+    font-family: var(--font-libre-franklin);
   }
-  p {
-    font-family: var(--font-rubik);
+  h2 .h2 {
+    font-size: var(--fs-3xl);
+    font-family: var(--font-libre-franklin);
+  }
+  h3 .h3 {
+    font-size: var(--fs-2xl);
+    font-family: var(--font-libre-franklin);
+  }
+
+  p .p {
+    font-size: var(--fs-base);
+    font-family: var(--font-libre-franklin);
+  }
+
+  .lead {
+    font-size: var(--fs-lg);
+    font-family: var(--font-libre-franklin);
+  }
+
+  small, .caption .small {
+    font-size: var(--fs-sm);
+    font-family: var(--font-libre-franklin);
+  }
+  h1, h2, h3, h4, h5, h6, .title {
+    font-family: var(--font-libre-franklin);
     font-weight: normal;
+  }
+  p, span {
+    font-family: var(--font-libre-franklin);
+    font-weight: normal;
+  }
+  code, pre, .mono {
+    font-family: var(--font-dm-mono);
   }
 }
 
@@ -145,4 +193,16 @@
   body {
     @apply bg-background text-foreground;
   }
+}
+
+
+
+.rounded,
+.rounded-sm,
+.rounded-md,
+.rounded-lg,
+.rounded-xl,
+.rounded-2xl,
+.rounded-full {
+  border-radius: 0 !important;
 }

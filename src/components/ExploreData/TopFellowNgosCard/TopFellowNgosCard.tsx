@@ -3,17 +3,35 @@ import { Button } from "@/components/ui/button";
 
 export function TopFellowNgosCard({ ngo }: { ngo: FellowNgo }) {
   return (
-    <div className="flex justify-between items-center bg-white rounded-xl px-4 py-2 shadow-sm min-w-[320px] max-w-[800px] w-full">
-      <div className=" w-full flex items-center gap-4">
+    // <div className="flex justify-between items-center bg-white rounded-xl px-4 py-2 shadow-sm min-w-[320px] max-w-[800px] w-full">
+      <div
+        className="
+    flex flex-col sm:flex-row 
+    justify-between items-center
+     rounded-xl px-4 py-2 gap-2 bg-white shadow-sm
+    min-w-[320px] max-w-[800px] w-full
+  "
+      >
         <img
           src={ngo.logo}
           alt={ngo.name}
-          className="w-[130px] h-[130px] object-cover rounded-lg"
+          className="flex-shrink-0 w-[130px] h-[130px] object-cover rounded-lg"
         />
         <div className="tfnc-body-container-card w-full">
-          <div className="card-header pb-2 flex justify-between items-center w-full">
-            <h3 className="text-xl font-bold w-full">{ngo.name}</h3>
-            <Button className=" bg-transparent text-[var(--propel-rich-green)] border-2 border-[var(--propel-rich-green)] hover:bg-[#cbe4e3] rounded-full px-3 py-1 text-xs font-semibold cursor-pointer">
+          <div className="card-header pb-2 flex flex-col sm:flex-row justify-between items-center w-full">
+            <h3
+              className="
+             text-xl font-semibold
+             w-full
+             min-w-0
+             truncate
+             text-center
+             sm:text-start
+           "
+            >
+              {ngo.name}
+            </h3>
+            <Button className=" bg-transparent text-[var(--propel-rich-green)] border-2 border-[var(--propel-rich-green)] hover:bg-[#cbe4e3] rounded-full px-3 py-1 text-xs font-semibold cursor-pointer ">
               FELLOWSHIP
             </Button>
           </div>
@@ -25,7 +43,7 @@ export function TopFellowNgosCard({ ngo }: { ngo: FellowNgo }) {
                 Digitalization Level:
               </span>
             </div>
-            <div className="descriptor-infos pl-2">
+            <div className="descriptor-infos pl-2 ">
               <p className="text-sm">{ngo.beneficiaries}</p>
               <p className="text-sm">{ngo.country}</p>
               <p className="text-sm">{ngo.digitalizationLevel}</p>
@@ -33,6 +51,6 @@ export function TopFellowNgosCard({ ngo }: { ngo: FellowNgo }) {
           </div>
         </div>
       </div>
-    </div>
+    // </div>
   );
 }

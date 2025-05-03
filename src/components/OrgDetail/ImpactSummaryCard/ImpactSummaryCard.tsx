@@ -6,12 +6,12 @@ import {
 import { Separator } from "@radix-ui/react-separator";
 
 const cardBaseStyles =
-"min-w-[350px] max-w-[600px] h-full max-h-[600px] bg-[#EFECE6] rounded-xl p-6 flex flex-col gap-4 shadow-lg";
+"min-w-[300px] max-w-[600px] h-full max-h-[600px] bg-[#EFECE6] rounded-xl p-6 flex flex-col gap-4 shadow-lg";
 
 export function ImpactSummaryCard() {
   return (
     <div className="flex flex-col h-full">
-      <h2 className="text-2xl font-bold mb-4 text-center">
+      <h2 className="text-2xl font-extralight mb-4 text-center">
         Impact Summary
       </h2>
 
@@ -19,7 +19,7 @@ export function ImpactSummaryCard() {
         <CardContent className="flex-1 grid grid-cols-1 gap-y-3 text-sm overflow-auto">
           <div className="flex justify-between gap-3">
             <span className="font-semibold">Beneficiaries:</span>
-            <span>5k - 10k direct, 10k - 100k indirect</span>
+            <span className="mono">5k - 10k direct, 10k - 100k indirect</span>
           </div>
           <div className="flex justify-between">
             <span className="font-semibold">Impact report:</span>

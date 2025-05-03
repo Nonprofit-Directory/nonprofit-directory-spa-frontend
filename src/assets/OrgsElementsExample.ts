@@ -16,7 +16,7 @@ export const orgCards: IOrgCard[] = [
     title: "Room to Read",
     country: "Estados Unidos",
     description:
-      "Promueve la alfabetización y la igualdad de género en la educación en países en desarrollo.",
+      "Promueve la alfabetización y la igualdad de género en la educación en países en desarrollo. ",
     website: "https://www.roomtoread.org",
     linkedin: "https://www.linkedin.com/company/room-to-read",
   },
