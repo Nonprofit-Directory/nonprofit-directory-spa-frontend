@@ -12,5 +12,9 @@
     "resolveJsonModule": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true
-  }
+  },
+  "exclude": [
+    "scripts",
+    "**/*.spec.ts"
+  ]
 }

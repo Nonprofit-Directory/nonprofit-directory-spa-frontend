@@ -1,9 +1,9 @@
 // src/scripts/importOrgs.ts
 import { Amplify } from '@aws-amplify/core';
-import outputs from '../../amplify_outputs.json';      // <- the file the Sandbox generated
+import outputs from '../amplify_outputs.json';      // <- the file the Sandbox generated
 import { generateClient } from 'aws-amplify/data';
-import type { Schema } from '../../amplify/data/resource';
-import orgsJson from '../assets/OrgElementsReal.json';
+import type { Schema } from '../amplify/data/resource';
+import orgsJson from '../src/assets/OrgElementsReal.json';
 
 Amplify.configure(outputs);                         // <- no more manual keys, no TS errors
 const client = generateClient<Schema>();
