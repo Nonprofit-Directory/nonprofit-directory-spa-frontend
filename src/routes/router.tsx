@@ -1,6 +1,6 @@
 // src/routes/router.tsx
 import { createBrowserRouter } from "react-router-dom"
-import LoginPage from "@/pages/LoginPage"
+// import LoginPage from "@/pages/LoginPage"
 import HomePage from "@/pages/HomePage"
 import ProfilePage from "@/pages/ProfilePage"
 import ExplorePage from "@/pages/ExplorePage"
@@ -9,22 +9,28 @@ import MainLayout from "@/layout/MainLayout"
 import PageNotFound from "@/components/404/PageNotFound"
 
 import { protectedLoader } from "./protectedLoader"
-import OAuthCallback from "@/pages/OAuthCallback"
-import SignupPage from "@/pages/SignupPage"
+// import OAuthCallback from "@/pages/OAuthCallback"
+// import SignupPage from "@/pages/SignupPage"
+// import ConfirmSignup from "@/components/confirmSignup/ConfirmSignup"
+
 
 export const router = createBrowserRouter([
-  {
-    path: "/",
-    element: <LoginPage />,
-  },
-  {
-    path: "/signup",
-    element: <SignupPage />,
-  },
-  {
-    path: "/callback",
-    element: <OAuthCallback />
-  },
+  // {
+  //   path: "/",
+  //   element: <LoginPage />,
+  // },
+  // {
+  //   path: "/signup",
+  //   element: <SignupPage />,
+  // },
+  // {
+  //   path: "/confirm-signup",
+  //   element: <ConfirmSignup />,
+  // },
+  // {
+  //   path: "/callback",
+  //   element: <OAuthCallback />
+  // },
   {
     element: <MainLayout />,
     children: [

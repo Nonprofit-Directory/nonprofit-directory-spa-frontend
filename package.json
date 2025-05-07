@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@aws-amplify/auth": "^6.12.4",
+    "@aws-amplify/ui-react": "^6.11.1",
     "@radix-ui/react-dropdown-menu": "^2.1.7",
     "@radix-ui/react-label": "^2.1.2",
     "@radix-ui/react-separator": "^1.1.3",

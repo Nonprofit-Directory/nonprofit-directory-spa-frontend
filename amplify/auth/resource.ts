@@ -1,11 +1,26 @@
-import { defineAuth } from '@aws-amplify/backend';
+// amplify/auth/resource.ts
+import { defineAuth, secret } from '@aws-amplify/backend';
 
-/**
- * Define and configure your auth resource
- * @see https://docs.amplify.aws/gen2/build-a-backend/auth
- */
+
+
 export const auth = defineAuth({
   loginWith: {
     email: true,
+
+    externalProviders: {
+      google: {
+        clientId:     secret('GOOGLE_CLIENT_ID'),
+        clientSecret: secret('GOOGLE_CLIENT_SECRET'),
+        scopes:       ['profile', 'email'],
+        attributeMapping: {
+          email:          'email',
+          fullname:       'name',
+          profilePicture: 'picture',
+        },
+      },
+      callbackUrls: [process.env.VITE_FRONT_END_CALLBACK || "http://localhost:3000/home"],
+      logoutUrls:   [process.env.VITE_FRONT_END_LOGOUT_URI || "http://localhost:3000"],
+    },
   },
+  
 });
