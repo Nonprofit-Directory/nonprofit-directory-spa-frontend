@@ -3,7 +3,7 @@ import { TopFellowshipNgosContainer } from "./TopFellowshipNgosContainer/TopFell
 
 export default function ExploreData() {
   return (
-    <section className="w-full px-4 py-6 grid grid-cols-1 lg:grid-cols-2 gap-6 bg-[#EFECE6] min-h-screen max-w-[1250px] mx-auto">
+    <section className="w-full flex-1 flex flex-col lg:flex-row gap-2 bg-[#EFECE6] p-4">
       <ProelImpactReportContainer />
       <TopFellowshipNgosContainer />
     </section>

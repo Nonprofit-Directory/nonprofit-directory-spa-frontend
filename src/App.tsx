@@ -17,7 +17,7 @@ function AppContent() {
 
 export default function App() {
   return (
-    <div className="w-screen h-screen flex justify-center items-center bg-[var(--propel-clay-gray)]">
+    <div className="h-svh w-svw flex justify-center items-center bg-[var(--propel-clay-gray)]">
       <ThemeProvider theme={amplifyTheme}>
         <Authenticator
           initialState="signIn"

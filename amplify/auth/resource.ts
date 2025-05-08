@@ -18,8 +18,8 @@ export const auth = defineAuth({
           profilePicture: 'picture',
         },
       },
-      callbackUrls: [process.env.VITE_FRONT_END_CALLBACK || "http://localhost:3000/home"],
-      logoutUrls:   [process.env.VITE_FRONT_END_LOGOUT_URI || "http://localhost:3000"],
+      callbackUrls: [process.env.VITE_FRONT_END_CALLBACK || "http://localhost:3000/home", "https://main.d1nshjg8bktoxg.amplifyapp.com/home"],
+      logoutUrls:   [process.env.VITE_FRONT_END_LOGOUT_URI || "http://localhost:3000", "https://main.d1nshjg8bktoxg.amplifyapp.com"],
     },
   },
   userAttributes: {

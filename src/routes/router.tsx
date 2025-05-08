@@ -12,22 +12,6 @@ import PageNotFound from "@/components/404/PageNotFound"
 
 
 export const router = createBrowserRouter([
-  // {
-  //   path: "/",
-  //   element: <HomePage />,
-  // },
-  // {
-  //   path: "/signup",
-  //   element: <SignupPage />,
-  // },
-  // {
-  //   path: "/confirm-signup",
-  //   element: <ConfirmSignup />,
-  // },
-  // {
-  //   path: "/callback",
-  //   element: <OAuthCallback />
-  // },
   {
     path: "/",
     element: <MainLayout />,
