@@ -1,5 +1,5 @@
 // src/routes/router.tsx
-import { createBrowserRouter } from "react-router-dom"
+import { createBrowserRouter, Navigate } from "react-router-dom"
 // import LoginPage from "@/pages/LoginPage"
 import HomePage from "@/pages/HomePage"
 import ProfilePage from "@/pages/ProfilePage"
@@ -7,17 +7,14 @@ import ExplorePage from "@/pages/ExplorePage"
 import AccountPage from "@/pages/AccountPage"
 import MainLayout from "@/layout/MainLayout"
 import PageNotFound from "@/components/404/PageNotFound"
+// import { roleLoader } from "./roleLoader"
 
-import { protectedLoader } from "./protectedLoader"
-// import OAuthCallback from "@/pages/OAuthCallback"
-// import SignupPage from "@/pages/SignupPage"
-// import ConfirmSignup from "@/components/confirmSignup/ConfirmSignup"
 
 
 export const router = createBrowserRouter([
   // {
   //   path: "/",
-  //   element: <LoginPage />,
+  //   element: <HomePage />,
   // },
   // {
   //   path: "/signup",
@@ -32,27 +29,26 @@ export const router = createBrowserRouter([
   //   element: <OAuthCallback />
   // },
   {
+    path: "/",
     element: <MainLayout />,
     children: [
+      // 1) Si vas a “/”, redirige automáticamente a “/home”
+      { index: true, element: <Navigate to="home" replace /> },
       {
-        path: "/home",
+        path: "home",
         element: <HomePage />,
-        loader: protectedLoader,
       },
       {
-        path: "/profile",
+        path: "profile",
         element: <ProfilePage />,
-        loader: protectedLoader,
       },
       {
-        path: "/explore",
+        path: "explore",
         element: <ExplorePage />,
-        loader: protectedLoader,
       },
       {
-        path: "/account",
+        path: "account",
         element: <AccountPage />,
-        loader: protectedLoader,
       },
     ],
   },

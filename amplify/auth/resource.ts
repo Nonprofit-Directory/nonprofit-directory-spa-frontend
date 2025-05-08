@@ -22,5 +22,12 @@ export const auth = defineAuth({
       logoutUrls:   [process.env.VITE_FRONT_END_LOGOUT_URI || "http://localhost:3000"],
     },
   },
-  
+  userAttributes: {
+    "custom:role": {
+      dataType: "String",
+      mutable: true,
+      maxLen: 50,
+      minLen: 2
+    }
+  }
 });

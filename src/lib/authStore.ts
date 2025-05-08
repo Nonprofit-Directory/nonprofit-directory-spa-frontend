@@ -1,27 +1,17 @@
+// src/lib/authStore.ts
+import {create} from 'zustand'
+import { JwtPayload } from './loadUserAttributesAws'
 
-import { create } from "zustand"
 
-type User = {
-  name: string
-  email: string
+
+interface AuthState {
+  user?: JwtPayload | null
+  setUser: (u: JwtPayload | null) => void
+  clearUser: () => void
 }
 
-type AuthStore = {
-  user: User | null
-  login: (userData: User) => void
-  logout: () => void
-  isAuthenticated: () => boolean
-}
-
-export const useAuthStore = create<AuthStore>((set, get) => ({
-  user: JSON.parse(localStorage.getItem("user") || "null"),
-  login: (userData) => {
-    localStorage.setItem("user", JSON.stringify(userData))
-    set({ user: userData })
-  },
-  logout: () => {
-    localStorage.removeItem("user")
-    set({ user: null })
-  },
-  isAuthenticated: () => !!get().user,
+export const useAuthStore = create<AuthState>((set) => ({
+  user: null,
+  setUser: (u) => set({ user: u }),
+  clearUser: () => set({ user: null }),
 }))

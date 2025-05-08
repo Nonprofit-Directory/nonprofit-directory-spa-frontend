@@ -1,21 +1,27 @@
 import { useState } from "react";
-// import { FaProductHunt } from "react-icons/fa6";
 import { TiThMenu } from "react-icons/ti";
 import { useNavigate } from "react-router-dom";
-import { useAuthStore } from "../../lib/authStore";
 import { useStickyObserver } from "@/hooks/navbar/useStickyObserver";
 import { DesktopMenu } from "./Navbar/DesktopMenu";
 import { MobileMenuDrawer } from "./Navbar/MobileMenuDrawer";
+import { signOut } from 'aws-amplify/auth';
+import { useAuthStore } from "@/lib/authStore";
+
 
 export default function Navbar() {
   const [isMobileOpen, setIsMobileOpen] = useState(false);
-  const logout = useAuthStore((s) => s.logout);
   const navigate = useNavigate();
   const isSticky = useStickyObserver();
+  const clearUser = useAuthStore((s) => s.clearUser);
 
-  const handleLogout = () => {
-    logout();
-    navigate("/");
+  const handleLogout = async () => {
+    try{
+      await signOut();
+      clearUser()
+      navigate("/");
+    } catch(e: unknown){
+      console.log(e instanceof Error ? e.message : "Unknown error trying to logout")
+    }
   };
 
   return (
@@ -46,7 +52,7 @@ export default function Navbar() {
         </div>
 
         {/* Menú de escritorio */}
-        <DesktopMenu isSticky={isSticky} />
+        <DesktopMenu isSticky={isSticky} handleLogout={handleLogout}/>
 
         {/* Botón hamburguesa móvil */}
         <button

@@ -1,22 +1,16 @@
 // src/components/shared/DesktopMenu.tsx
 import { Link, useLocation, useNavigate } from "react-router-dom";
-import { useAuthStore } from "@/lib/authStore";
 import DropdownUserNav from "@/components/Dropdowns/DropdownUserNav/DropdownUserNav";
 import { menuItems } from "./menuItems";
 
 interface DesktopMenuProps {
   isSticky: boolean;
+  handleLogout: () => Promise<void>
 }
 
-export function DesktopMenu({ isSticky }: DesktopMenuProps) {
+export function DesktopMenu({ isSticky, handleLogout }: DesktopMenuProps) {
   const location = useLocation();
   const navigate = useNavigate();
-  const logout = useAuthStore((s) => s.logout);
-
-  const handleLogout = () => {
-    logout();
-    navigate("/");
-  };
 
   return (
     <div className="hidden sm:flex h-full items-end">
