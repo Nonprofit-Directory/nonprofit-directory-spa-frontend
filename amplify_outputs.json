@@ -1,9 +1,9 @@
 {
   "auth": {
-    "user_pool_id": "us-east-2_j33HFEHX6",
-    "aws_region": "us-east-2",
-    "user_pool_client_id": "3cqfi9o0vt12qmg05bpltj2m08",
-    "identity_pool_id": "us-east-2:0942cf80-5704-484f-a840-b666c9c903bb",
+    "user_pool_id": "us-west-2_wMNwfTb1n",
+    "aws_region": "us-west-2",
+    "user_pool_client_id": "7smm236ldgq47rdagiuhpp0l9i",
+    "identity_pool_id": "us-west-2:dfe53dbb-cfcc-454c-a47d-dff8bd21b86b",
     "mfa_methods": [],
     "standard_required_attributes": [
       "email"
@@ -28,10 +28,12 @@
         "GOOGLE"
       ],
       "redirect_sign_in_uri": [
-        "http://localhost:3000/home"
+        "http://localhost:3000/home",
+        "https://main.d1nshjg8bktoxg.amplifyapp.com/home"
       ],
       "redirect_sign_out_uri": [
-        "http://localhost:3000"
+        "http://localhost:3000",
+        "https://main.d1nshjg8bktoxg.amplifyapp.com"
       ],
       "response_type": "code",
       "scopes": [
@@ -41,14 +43,14 @@
         "profile",
         "aws.cognito.signin.user.admin"
       ],
-      "domain": "c4316a97d190cb902a9c.auth.us-east-2.amazoncognito.com"
+      "domain": "c4316a97d190cb902a9c.auth.us-west-2.amazoncognito.com"
     },
     "unauthenticated_identities_enabled": true
   },
   "data": {
-    "url": "https://dldi6qmaxraf3pjuemeznxgdyy.appsync-api.us-east-2.amazonaws.com/graphql",
-    "aws_region": "us-east-2",
-    "api_key": "da2-vg5sff2cyvbpvgtwlxzudkqxcy",
+    "url": "https://kmf2osn7bnbwtepmziytrvlmxq.appsync-api.us-west-2.amazonaws.com/graphql",
+    "aws_region": "us-west-2",
+    "api_key": "da2-cqx6ier2pvgmpkhutccdfiraie",
     "default_authorization_type": "API_KEY",
     "authorization_types": [
       "AMAZON_COGNITO_USER_POOLS",

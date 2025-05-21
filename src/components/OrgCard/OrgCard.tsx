@@ -76,10 +76,6 @@ export default function OrgCard({ org }: IOrgCardProps) {
         <Button className="bg-[var(--propel-rich-green)] py-1 px-2 w-full hover:bg-green-800">
           See more
         </Button>
-        <div className="flex justify-start items-center gap-2">
-          <p>Tags:</p>
-          <p>Peru, Education, Fellowship</p>
-        </div>
       </CardFooter>
     </Card>
   );
